@@ -1,4 +1,4 @@
-# Retail_Sales_Analysis-SQL-P1-
+# Retail_Sales_Analysis ( SQL-P1 )
 
 ## Project Overview
 
